@@ -1,0 +1,1 @@
+Real-time facial recognition system with automatic attendance tracking. Built with OpenCV, dlib face encodings, and PyQt5 GUI. Features 128-dimensional face embeddings, Euclidean distance matching, SQLite database, and anti-spoofing measures.
